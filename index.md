@@ -1,4 +1,4 @@
-## Ruhaan Rajani's First CS193 Homework
+# Ruhaan Rajani's First CS193 Homework
 
 - Linux
 - Github in genral
